@@ -1,0 +1,16 @@
+title: Jared Woytas
+description:  Software Developer
+#url: https://jekyll-cv.stavrospanakakis.com
+#host: 0.0.0.0
+baseurl: ''
+theme_skin: green
+
+sass:
+  sass_dir: _sass
+#  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
