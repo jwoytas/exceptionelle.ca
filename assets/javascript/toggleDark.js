@@ -18,4 +18,4 @@ document.documentElement.setAttribute('data-theme', 'dark')
 var moon = document.getElementById('moon')
 moon.innerHTML = feather.icons['sun'].toSvg({ 'fill': 'var(--fg-color-dark)' })
 
-//checkbox.click();
+checkbox.click();
