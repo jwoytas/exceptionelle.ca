@@ -19,11 +19,36 @@
 
 @media screen and (max-width: 768px) {
     .container {
+
         .container-block {
             display: block;
         }
+
+        .header {
+            display: 0 0 100%;
+
+            .profile-pic {
+                margin-left: auto;
+            }
+
+            .title-wrap {
+                display: flex;
+                flex: 0 0 100%;
+                justify-content: center;
+                order: 2;
+
+                .title{
+                    margin: 0px;
+                }
+            }
+
+            .contact {
+                margin-left: 20px;
+                margin-right: auto;
+            }
+        }
     }
-    .header {
+/*    .header {
         display: block;
         .title {
             margin:0 auto;
@@ -31,5 +56,5 @@
         input, label {
             display: none;
         }
-    }
+    }*/
 }
