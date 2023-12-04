@@ -35,6 +35,9 @@
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
+
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
     }
 
     .title {
@@ -47,8 +50,7 @@
         font-size: 3rem;
         /*text-transform: uppercase;*/
     }
-
-/*
+    /*
     .title-and-contact {
         display: flex;
         flex-grow: 1;
