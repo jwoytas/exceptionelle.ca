@@ -6,38 +6,46 @@ fork: false
 # Sidebar
 contact:
   email: bethlarrivee@gmail.com
-#  github: jwoytas
   linkedin: bethwoytas
   phone: 
   gitlab: 
   twitter: 
 
-#languages:
-#  - idiom: English
-
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BSc. in Nursing
+    time: 2003 - 2005
+    university: University of Alberta
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+certifications:
+  - name: CIPP/C
+    time: 2023
+    issuer: IAPP
+  - name: AI Governance Program
+    time: 2023
+    issuer: AMII
 
 skills:
-  - category: Backend
+  - category: Business
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Entrepreneurship
+      - Developement
+      - Management
+  - category: Privacy
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Data Privacy
+      - Compliance
+      - Law
+  - category: Healthcare
     skill:
-      - Docker
-      - Kubernetes 
+      - Prceision Health
+      - Emergency Management
+      - Healthcare Delivery
+  - category: Technical
+    skill:
+      - Infomatics
+      - Analytics
+      - EMRs
 
 # Profile
 profile: |
@@ -49,29 +57,47 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+  - role: Director of Products
+    time: 2020 - Present
+    company: Okaki Health Intelligence
+    details:
+      - manages multiple teams; Programs, Helpdesk, Quality Assurance and Privacy
+      - cultivates strong relationships with new and existing customers and partners
+      - supports the CEO in developing and executing sales and marketing strategies
+      - oversees software and analytic product design, development, testing and implementation
+      - develops short and long-term business strategies and workforce plans in collaboration with senior management 
+    # technologies_used: | 
+    #   Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+  - role: Clinical Development Nurse
+    time: 2017
+    company: Alberta Health Services                 
+    details:
+      - clinical nurse lead and educator supporting Edmonton Zone public health staff, community providers and the general public
+      - orientated nurses and public health staff in all areas of the Alberta immunization program
+      - revised and maintained the Alberta immunization program standards manual
+      - consulted with the Zone Medical Officer of Health on public health issues 
+
+  - role: Registered Nurse
+    time: 2007 - 2018
+    company: Alberta Health Services                 
+    details:
+      - project leader for the first full-electronic mass influenza clinic workflow pilot project in Canada 
+      - coordinated and managed the largest non-Alberta Health Services annual influenza clinic in the province 
+      - developed and implemented policies, procedures and resources for the nursing team and clinic
+      - educated and mentored nursing and pharmacy students in clinical experiences
+
+
+recognition:
+  - title: Winner - University of Alberta Community Leader Award 
+    link: "#"
+    authors: for Fort McMurray fire evacuees emergency response
+    time: 2017
+  - title: Nominee - CARNA Award for Nursing Excellence in Clinical Practice
+    link: "#"
+    authors: 
+    time: 2015
+
 
 publications:
   - title: Random title of paper. An interesting one.
@@ -83,6 +109,7 @@ publications:
     link: "#"
     authors: John E. Doe
     conference: Some conference again, 2018
+
 
 projects:
   - title: Cool Project 
