@@ -31,11 +31,6 @@ skills:
       - Entrepreneurship
       - Developement
       - Management
-  - category: Privacy
-    skill:
-      - Data Privacy
-      - Compliance
-      - Law
   - category: Healthcare
     skill:
       - Prceision Health
@@ -45,15 +40,17 @@ skills:
     skill:
       - Infomatics
       - Analytics
-      - EMRs
+      - EMRs 
+  - category: Privacy
+    skill:
+      - Data Privacy
+      - Compliance
+      - Law
+
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Dedicated and results-driven professional with a proven track record working at the intersection of healthcare and technology. A strategic thinker with a passion for personal achievement and team mentorship. I bring 20 years of experience in driving business growth through project management and leadership. By leveraging technology, I strive for innovation and success in my career and for my clients.
 
 # Experience
 experience:
@@ -61,11 +58,12 @@ experience:
     time: 2020 - Present
     company: Okaki Health Intelligence
     details:
-      - manages multiple teams; Programs, Helpdesk, Quality Assurance and Privacy
-      - cultivates strong relationships with new and existing customers and partners
-      - supports the CEO in developing and executing sales and marketing strategies
-      - oversees software and analytic product design, development, testing and implementation
-      - develops short and long-term business strategies and workforce plans in collaboration with senior management 
+      - Cultivates strong relationships with new and existing customers and partners
+      - Develops short and long-term business strategies and workforce plans in collaboration with senior management - 
+      - Supports the CEO in developing and executing sales and marketing strategies
+      - Oversees software and analytic product design, development, testing and implementation
+      - "Management of Programs, Privacy, Quality Assurance and Helpdesk teams"
+
     # technologies_used: | 
     #   Go, Angular, Typescript, C++
   
