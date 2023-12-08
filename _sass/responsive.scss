@@ -32,6 +32,10 @@
                     justify-content: space-evenly;
                     flex-direction: row;
                     flex-wrap: wrap;
+
+                    .skill-group {
+                        padding: 10px;
+                    }
                 }
             }
         }
