@@ -1,6 +1,6 @@
 .education {
     margin-bottom: 20px;
-    width: 150px;
+    width: 162px;
 
     .title {
         @include sub-header;
@@ -12,6 +12,7 @@
         .degree {
             @include body-text;
             font-weight: bold;
+            color: var(--fg-color-title-sm);
         }
 
         .university {
